@@ -1,0 +1,19 @@
+{
+  "name": "dd",
+  "version": "1.0.0",
+  "description": "bcrypt tutorial",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
